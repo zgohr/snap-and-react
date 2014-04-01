@@ -1,0 +1,13 @@
+/* Default demo styles */
+.snap-content {
+    background: #fff;
+}
+
+.snap-drawers {
+    background: #323949;
+}
+
+.snap-drawer {
+    background: #323949;
+    color: #eee;
+}
